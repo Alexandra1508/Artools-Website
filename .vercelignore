@@ -1,0 +1,6 @@
+# Exclui arquivos de referência e rascunhos brutos do bundle de produção
+assets/raw_files/
+assets/templates/
+README.md
+.git/
+
